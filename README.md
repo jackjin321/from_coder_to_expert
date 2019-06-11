@@ -1,7 +1,5 @@
 ### 2019年最新总结，如何从程序员到CTO，从专业走向卓越，企业内部分享文档pdf与PPT整理
-资料整理不易，欢迎打赏。
 
-![image](https://github.com/jackjin321/from_coder_to_expert/blob/master/pay.jpeg)
 
 ### 整理大牛分享文档如下，持续更新一线开发架构，技术文档
 ##### 网易蜂巢公有容器云架构之路
@@ -104,4 +102,6 @@
 <br/>
 <br/>
 
+资料整理不易，欢迎打赏。
 
+![image](https://github.com/jackjin321/from_coder_to_expert/blob/master/pay.jpeg)
